@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "/img/Exhibitions/5Star/1.jpeg",
+    "title": "5 Star",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 2,
+    "image": "/img/Exhibitions/Jatadhara/1.jpeg",
+    "title": "Jatadhara",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["web"]
+  },
+  {
+    "id": 3,
+    "image": "/img/Exhibitions/Rajaram/1.jpeg",
+    "title": "Rajaram",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["brand"]
+  },
+  {
+    "id": 4,
+    "image": "/img/Exhibitions/Rawsteen/1.jpeg",
+    "title": "Rawsteen",
+    "tags": ["Design", "WordPress"],
+    "filterCategory": ["graphic"]
+  }
+]

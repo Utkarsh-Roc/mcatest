@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "Floor", "second": "Plans" },
+    "image": "/img/floorplan.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 2,
+    "title": { "first": "Brand", "second": "Activation" },
+    "image": "/img/Activations/5Star/1.jpeg",
+    "sub": "Design"
+  },
+  {
+    "id": 3,
+    "title": { "first": "Live", "second": "Concerts" },
+    "image": "/img/live.jpeg",
+    "sub": "Design"
+  },
+  {
+    "id": 4,
+    "title": { "first": "Brand", "second": "Exhibition" },
+    "image": "/img/Exhibitions/Rawsteen/1.jpeg",
+    "sub": "Design"
+  }
+]

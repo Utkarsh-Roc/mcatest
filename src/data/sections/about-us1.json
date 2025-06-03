@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "image1": "/img/intro/1.jpg",
+  "image2": "/img/intro/3.jpg",
+  "image3": "/img/intro/2.jpg",
+  "smallTitle": "About Us",
+  "title": { "first": "We are more than just", "second": "a marketing agency." },
+  "content": "Founded in 2011, MCA Worldwide (Music Culture & Art) is a PR & Marketing firm that does Brand-Tie ups, ATL & BTL, Brand Activations with events at a PAN India level. The team focuses on delivering tailored ideas as per brand prerequisite. We ensure cost-effective service, accountability and flexibility in all your requirements. Whatever your budget may be, we have solutions you will not find elsewhere.",
+  "features": [
+    {
+      "id": 1,
+      "icon": "gleam",
+      "name": { "first": "Aim Your", "second": "Target" },
+      "wowDelay": ".3s"
+    },
+    {
+      "id": 2,
+      "icon": "paint-bucket",
+      "name": { "first": "Global", "second": "Connections" },
+      "wowDelay": ".5s"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+@media (max-width: 767px) {
+    .intro-image-positioning {
+      height: 27vh !important;
+      margin-top: 8vh;
+    }
+}
+
+@media (width: 768px) {
+    .intro-image-positioning {
+      height: 65vh !important;
+      margin-top: 8vh;
+    }
+}  
+
+@media (max-width: 768px) {
+    .intro-slide-positioning {
+        background-size: '100vw' !important
+    }
+}
+
+.intro-slide-positioning {
+    background-size: '100vw 100vh'
+}

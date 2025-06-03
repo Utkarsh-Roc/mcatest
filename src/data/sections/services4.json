@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Digital Marketing",
+        "icon": "pe-7s-gleam",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium.",
+        "image": "/img/AboutUs/4.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Web & App Development",
+      "icon": "pe-7s-phone",
+      "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium.",
+      "image": "/img/AboutUs/5.jpg"
+    }
+]

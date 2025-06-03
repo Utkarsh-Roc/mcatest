@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Exhibition",
+    "secTex": "Jatadhara",
+    "image": "/img/Exhibitions/Jatadhara/1.jpeg",
+    "slug": "/exhibitionsDetails/1"
+  },
+  {
+    "id": 2,
+    "title": "Activation",
+    "secTex": "5 Star",
+    "image": "/img/Activations/5Star/1.jpeg",
+    "slug": "/activationsDetails/1"
+  },
+  {
+    "id": 3,
+    "title": "Exhibition",
+    "secTex": "Rawsteen",
+    "image": "/img/Exhibitions/Rawsteen/1.jpeg",
+    "slug": "/exhibitionsDetails/3"
+  },
+  {
+    "id": 4,
+    "title": "Activation",
+    "secTex": "Burger King",
+    "image": "/img/Activations/BurgerKing/8.jpeg",
+    "slug": "/activationsDetails/2"
+  },
+  {
+    "id": 5,
+    "title": "Exhibition",
+    "secTex": "Rajaram",
+    "image": "/img/Exhibitions/Rajaram/1.jpeg",
+    "slug": "/exhibitionsDetails/2"
+  }
+]

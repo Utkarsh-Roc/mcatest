@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-smile",
+    "txt": "Happy Clients",
+    "value": "1290"
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "txt": "Partners",
+    "value": "44"
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-map",
+    "txt": "Countries",
+    "value": "3"
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-medal",
+    "txt": "Clients",
+    "value": "78"
+  }
+]

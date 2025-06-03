@@ -1,0 +1,540 @@
+[
+    {
+        "id": 1,
+        "tagline": "Activations",
+        "title": "5 Star",
+        "description": "Cadbury5star_india presented an amazing valentine',s Evacuation Zone at Bandra (Mumbai)",
+        "clientUrl": "https://www.cadbury.co.za/product/cadbury-5star",
+        "date": "14-Feb-2023",
+        "location": "Mumbai, Maharashtra",
+        "image": "/img/Activations/5Star/1.jpeg",
+        "pictures": [
+            {
+                "id": "1",
+                "image": "/img/Activations/5Star/1.jpeg"
+            },
+            {
+                "id": "2",
+                "image": "/img/Activations/5Star/2.jpeg"
+            },
+            {
+                "id": "3",
+                "image": "/img/Activations/5Star/3.jpeg"
+            },
+            {
+                "id": "4",
+                "image": "/img/Activations/5Star/4.jpeg"
+            },
+            {
+                "id": "5",
+                "image": "/img/Activations/5Star/5.jpeg"
+            },
+            {
+                "id": "6",
+                "image": "/img/Activations/5Star/6.jpeg"
+            },
+            {
+                "id": "7",
+                "image": "/img/Activations/5Star/7.jpeg"
+            },
+            {
+                "id": "8",
+                "image": "/img/Activations/5Star/8.jpeg"
+            },
+            {
+                "id": "9",
+                "image": "/img/Activations/5Star/9.jpeg"
+            },
+            {
+                "id": "10",
+                "image": "/img/Activations/5Star/10.jpeg"
+            },
+            {
+                "id": "11",
+                "image": "/img/Activations/5Star/11.jpeg"
+            },
+            {
+                "id": "12",
+                "image": "/img/Activations/5Star/12.jpeg"
+            },
+            {
+                "id": "13",
+                "image": "/img/Activations/5Star/13.jpeg"
+            },
+            {
+                "id": "14",
+                "image": "/img/Activations/5Star/14.jpeg"
+            },
+            {
+                "id": "15",
+                "image": "/img/Activations/5Star/15.jpeg"
+            }
+        ],
+        "href": "/activationsDetails/1"
+    },
+    {
+        "id": 2,
+        "title": "Burger King",
+        "tagline": "Activations",
+        "description": "In the auspicious GANESh Chaturthi event, THE KING OF BURGERS MEETS THE KING OF LALBAUG. People were stunned by Burger King's incredible menu, which costs only Rs50. THEY CONSTANTLY ERECTED STALLS FOR 10 DAYS AND GAVE THE WORKERS AT LALBAUGCHA RAJA 100 BURGERS.",
+        "clientUrl": "https://www.burgerking.in/",
+        "date": "31-Aug-2022",
+        "location": "Mumbai, Maharashtra",
+        "image": "/img/Activations/BurgerKing/1.jpeg",
+        "pictures": [
+            {
+                "id": "1",
+                "image": "/img/Activations/BurgerKing/1.jpeg"
+            },
+            {
+                "id": "2",
+                "image": "/img/Activations/BurgerKing/2.png"
+            },
+            {
+                "id": "3",
+                "image": "/img/Activations/BurgerKing/3.jpg"
+            },
+            {
+                "id": "4",
+                "image": "/img/Activations/BurgerKing/4.jpeg"
+            },
+            {
+                "id": "5",
+                "image": "/img/Activations/BurgerKing/5.jpg"
+            },
+            {
+                "id": "6",
+                "image": "/img/Activations/BurgerKing/6.jpg"
+            },
+            {
+                "id": "7",
+                "image": "/img/Activations/BurgerKing/7.jpeg"
+            },
+            {
+                "id": "8",
+                "image": "/img/Activations/BurgerKing/8.jpeg"
+            },
+            {
+                "id": "9",
+                "image": "/img/Activations/BurgerKing/9.jpg"
+            },
+            {
+                "id": "10",
+                "image": "/img/Activations/BurgerKing/10.jpeg"
+            },
+            {
+                "id": "11",
+                "image": "/img/Activations/BurgerKing/11.jpeg"
+            }
+        ],
+        "href": "/activationsDetails/2"
+    },
+    {
+        "id": 3,
+        "title": "Coca Cola",
+        "tagline": "Activations",
+        "description": "COCA-COLA Reached Lalbaug to refresh all the devotees who went to see Lalbaugcha Raja. They had a very attractive stall space shaped like ice box with a huge rotating cocacola bottle rotating at the side. For Ten days of Ganesh Chaturthi, They Served Chilled Soft Drinks HAD Cocacola participated at Lalbaugcha Raja 2022",
+        "clientUrl": "https://www.coca-colacompany.com/",
+        "date": "31-Aug-2022",
+        "location": "Mumbai, Maharashtra",
+        "image": "/img/Activations/Coke/1.jpeg",
+        "pictures": [
+            {
+                "id": "1",
+                "image": "/img/Activations/Coke/1.jpeg"
+            },
+            {
+                "id": "2",
+                "image": "/img/Activations/Coke/2.jpeg"
+            },
+            {
+                "id": "3",
+                "image": "/img/Activations/Coke/3.jpeg"
+            },
+            {
+                "id": "4",
+                "image": "/img/Activations/Coke/4.jpeg"
+            },
+            {
+                "id": "5",
+                "image": "/img/Activations/Coke/5.jpeg"
+            },
+            {
+                "id": "6",
+                "image": "/img/Activations/Coke/6.jpeg"
+            }
+        ],
+        "href": "/activationsDetails/3"
+    },
+    {
+        "id": 4,
+        "title": "Havmor",
+        "tagline": "Activations",
+        "description": "Havmor Reached Lalbaug to refresh all the devotees who went to see Lalbaugcha Raja. They had a very fabricated stall,Umbrella,Archgate. For Ten days of Ganesh Chaturthi Havmor participated at Lalbaugcha Raja 2022",
+        "clientUrl": "https://www.havmor.com/",
+        "date": "31-Aug-2022",
+        "location": "Mumbai, Maharashtra",
+        "image": "/img/Activations/Havmor/1.jpeg",
+        "pictures": [
+            {
+                "id": "1",
+                "image": "/img/Activations/Havmor/1.jpeg"
+            },
+            {
+                "id": "2",
+                "image": "/img/Activations/Havmor/2.jpeg"
+            },
+            {
+                "id": "3",
+                "image": "/img/Activations/Havmor/3.jpeg"
+            },
+            {
+                "id": "4",
+                "image": "/img/Activations/Havmor/4.jpeg"
+            },
+            {
+                "id": "5",
+                "image": "/img/Activations/Havmor/5.jpeg"
+            },
+            {
+                "id": "6",
+                "image": "/img/Activations/Havmor/6.jpeg"
+            }
+        ],
+        "href": "/activationsDetails/4"
+    },
+    {
+        "id": 5,
+        "title": "Heritage",
+        "tagline": "Activations",
+        "description": "Hyderabad India’s dairy giant heritage food participated in Ganesh Chaturthi all throughout Hydrabad at multiple locations. A foodie approach was taken by Heritage Food, who Made MODAK STRUCTURES USING THEIR VANILLA MILKSHAKE PACKS FOR THE CELEBRATION.",
+        "clientUrl": "https://www.heritagefoods.in/",
+        "date": "31-Aug-2022",
+        "location": "Mumbai, Maharashtra",
+        "image": "/img/Activations/Heritage/1.jpeg",
+        "pictures": [
+            {
+                "id": "1",
+                "image": "/img/Activations/Heritage/1.jpeg"
+            },
+            {
+                "id": "2",
+                "image": "/img/Activations/Heritage/2.jpeg"
+            },
+            {
+                "id": "3",
+                "image": "/img/Activations/Heritage/3.jpeg"
+            },
+            {
+                "id": "4",
+                "image": "/img/Activations/Heritage/4.jpeg"
+            },
+            {
+                "id": "5",
+                "image": "/img/Activations/Heritage/5.jpeg"
+            },
+            {
+                "id": "6",
+                "image": "/img/Activations/Heritage/6.jpeg"
+            }
+        ],
+        "href": "/activationsDetails/5"
+    },
+    {
+        "id": 6,
+        "title": "Loreal",
+        "tagline": "Activations",
+        "description": "Loreal Discovers the Parisian Beauty Essentials from Makeup, Skin & Hair Products- Because You're Worth It! Discover The Best Of Beauty And Science showcased its brand at various locations Loreal participated at Multiple Locations on the occasion of Ganesh Chaturthi 2022",
+        "clientUrl": "https://www.lorealparis.co.in/",
+        "date": "31-Aug-2022",
+        "location": "Mumbai, Maharashtra",
+        "image": "/img/Activations/Loreal/1.jpeg",
+        "pictures": [
+            {
+                "id": "1",
+                "image": "/img/Activations/Loreal/1.jpeg"
+            },
+            {
+                "id": "2",
+                "image": "/img/Activations/Loreal/2.jpeg"
+            },
+            {
+                "id": "3",
+                "image": "/img/Activations/Loreal/3.jpeg"
+            },
+            {
+                "id": "4",
+                "image": "/img/Activations/Loreal/4.jpeg"
+            },
+            {
+                "id": "5",
+                "image": "/img/Activations/Loreal/5.jpeg"
+            },
+            {
+                "id": "6",
+                "image": "/img/Activations/Loreal/6.jpeg"
+            },
+            {
+                "id": "7",
+                "image": "/img/Activations/Loreal/7.jpeg"
+            },
+            {
+                "id": "8",
+                "image": "/img/Activations/Loreal/8.jpeg"
+            }
+        ],
+        "href": "/activationsDetails/6"
+    },
+    {
+        "id": 7,
+        "title": "Nestle",
+        "tagline": "Activations",
+        "description": "One of the oldest and most famous multinational food brands, Nestle arranged its stalls and showcased its products at multiple locations on the auspicious occasion of Ganesh Chaturthi. Nestle participated at Lalbaugcha Raja 2022 & Khetwadicha Raja 2022. Nestle & MCA look forward to cater more Ganpati Pandals in 2023.",
+        "clientUrl": "https://www.nestle.in/",
+        "date": "31-Aug-2022",
+        "location": "Mumbai, Maharashtra",
+        "image": "/img/Activations/Nestle/1.jpg",
+        "pictures": [
+            {
+                "id": "1",
+                "image": "/img/Activations/Nestle/1.jpg"
+            },
+            {
+                "id": "2",
+                "image": "/img/Activations/Nestle/2.jpeg"
+            },
+            {
+                "id": "3",
+                "image": "/img/Activations/Nestle/3.jpeg"
+            },
+            {
+                "id": "4",
+                "image": "/img/Activations/Nestle/4.jpg"
+            },
+            {
+                "id": "5",
+                "image": "/img/Activations/Nestle/5.jpg"
+            },
+            {
+                "id": "6",
+                "image": "/img/Activations/Nestle/6.jpg"
+            },
+            {
+                "id": "7",
+                "image": "/img/Activations/Nestle/7.jpg"
+            },
+            {
+                "id": "8",
+                "image": "/img/Activations/Nestle/8.jpg"
+            },
+            {
+                "id": "9",
+                "image": "/img/Activations/Nestle/9.jpg"
+            },
+            {
+                "id": "10",
+                "image": "/img/Activations/Nestle/10.jpg"
+            },
+            {
+                "id": "11",
+                "image": "/img/Activations/Nestle/11.jpg"
+            },
+            {
+                "id": "12",
+                "image": "/img/Activations/Nestle/12.jpg"
+            },
+            {
+                "id": "13",
+                "image": "/img/Activations/Nestle/13.jpg"
+            },
+            {
+                "id": "14",
+                "image": "/img/Activations/Nestle/14.jpeg"
+            },
+            {
+                "id": "15",
+                "image": "/img/Activations/Nestle/15.jpg"
+            }
+        ],
+        "href": "/activationsDetails/7"
+    },
+    {
+        "id": 8,
+        "title": "Red Bull",
+        "tagline": "Activations",
+        "description": "Reached Lalbaug to refresh all the devotees who went to see Lalbaugcha Raja. They had a very attractive stalls. For Ten days of Ganesh Chaturthi, They Served Chilled Soft Drinks HAD Redbull participated at Lalbaugcha Raja 2022",
+        "clientUrl": "https://www.redbull.com/",
+        "date": "31-Aug-2022",
+        "location": "Mumbai, Maharashtra",
+        "image": "/img/Activations/RedBull/1.jpeg",
+        "pictures": [
+            {
+                "id": "1",
+                "image": "/img/Activations/RedBull/1.jpeg"
+            },
+            {
+                "id": "2",
+                "image": "/img/Activations/RedBull/2.jpeg"
+            },
+            {
+                "id": "3",
+                "image": "/img/Activations/RedBull/3.jpeg"
+            },
+            {
+                "id": "4",
+                "image": "/img/Activations/RedBull/4.jpeg"
+            },
+            {
+                "id": "5",
+                "image": "/img/Activations/RedBull/5.jpeg"
+            },
+            {
+                "id": "6",
+                "image": "/img/Activations/RedBull/6.jpeg"
+            },
+            {
+                "id": "7",
+                "image": "/img/Activations/RedBull/7.jpeg"
+            },
+            {
+                "id": "8",
+                "image": "/img/Activations/RedBull/8.jpeg"
+            },
+            {
+                "id": "9",
+                "image": "/img/Activations/RedBull/9.jpeg"
+            }
+        ],
+        "href": "/activationsDetails/8"
+    },
+    {
+        "id": 9,
+        "title": "Tata Prvesh",
+        "tagline": "Activations",
+        "description": "The leading brand in india- tata pravesh showcased its range of doors at multiple locations in mumbai- solapur, sangli, nanded, nagpur dhantoli, and nagpur sadar bazar. On the occasion of ganesh chaturthi tata pravesh arranged stalls for visitors to play and engage in fun games and have a look at their door- ranges.",
+        "clientUrl": "https://www.tatapravesh.com/",
+        "date": "31-Aug-2022",
+        "location": "Mumbai, Maharashtra",
+        "image": "/img/Activations/TataPravesh/1.jpeg",
+        "pictures": [
+            {
+                "id": "1",
+                "image": "/img/Activations/TataPravesh/1.jpeg"
+            },
+            {
+                "id": "2",
+                "image": "/img/Activations/TataPravesh/2.jpeg"
+            },
+            {
+                "id": "3",
+                "image": "/img/Activations/TataPravesh/3.jpeg"
+            },
+            {
+                "id": "4",
+                "image": "/img/Activations/TataPravesh/4.png"
+            },
+            {
+                "id": "5",
+                "image": "/img/Activations/TataPravesh/5.jpeg"
+            },
+            {
+                "id": "6",
+                "image": "/img/Activations/TataPravesh/6.png"
+            },
+            {
+                "id": "7",
+                "image": "/img/Activations/TataPravesh/7.jpeg"
+            },
+            {
+                "id": "8",
+                "image": "/img/Activations/TataPravesh/8.jpeg"
+            },
+            {
+                "id": "9",
+                "image": "/img/Activations/TataPravesh/9.jpeg"
+            },
+            {
+                "id": "10",
+                "image": "/img/Activations/TataPravesh/10.jpeg"
+            },
+            {
+                "id": "11",
+                "image": "/img/Activations/TataPravesh/11.jpeg"
+            },
+            {
+                "id": "12",
+                "image": "/img/Activations/TataPravesh/12.jpeg"
+            },
+            {
+                "id": "13",
+                "image": "/img/Activations/TataPravesh/13.jpeg"
+            }
+        ],
+        "href": "/activationsDetails/9"
+    },
+    {
+        "id": 10,
+        "title": "Yes Bank",
+        "tagline": "Activations",
+        "description": "The fastest growing bank, Yes bank finally participated in lalbaughcha raja 2022. They plunged into the festival with banners, umbrellas, and arch gate brandings. The upper management visited lalbaugcha raja for darshan with there family.",
+        "clientUrl": "https://www.yesbank.in/",
+        "date": "31-Aug-2022",
+        "location": "Mumbai, Maharashtra",
+        "image": "/img/Activations/YesBank/3.jpeg",
+        "pictures": [
+            {
+                "id": "1",
+                "image": "/img/Activations/YesBank/1.jpeg"
+            },
+            {
+                "id": "2",
+                "image": "/img/Activations/YesBank/2.jpeg"
+            },
+            {
+                "id": "3",
+                "image": "/img/Activations/YesBank/3.jpeg"
+            },
+            {
+                "id": "4",
+                "image": "/img/Activations/YesBank/4.jpeg"
+            },
+            {
+                "id": "5",
+                "image": "/img/Activations/YesBank/5.jpeg"
+            },
+            {
+                "id": "6",
+                "image": "/img/Activations/YesBank/6.jpeg"
+            },
+            {
+                "id": "7",
+                "image": "/img/Activations/YesBank/7.jpeg"
+            },
+            {
+                "id": "8",
+                "image": "/img/Activations/YesBank/8.jpeg"
+            },
+            {
+                "id": "9",
+                "image": "/img/Activations/YesBank/9.jpeg"
+            },
+            {
+                "id": "10",
+                "image": "/img/Activations/YesBank/10.jpeg"
+            },
+            {
+                "id": "11",
+                "image": "/img/Activations/YesBank/11.jpeg"
+            },
+            {
+                "id": "12",
+                "image": "/img/Activations/YesBank/12.jpeg"
+            },
+            {
+                "id": "13",
+                "image": "/img/Activations/YesBank/13.jpeg"
+            }
+        ],
+        "href": "/activationsDetails/10"
+    }
+]

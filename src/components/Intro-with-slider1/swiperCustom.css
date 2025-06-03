@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    Swiper {
+      height: 14px !important;
+      margin-top: 8vh !important;
+    }
+    SwiperSlide {
+      background-size: 100vw auto !important;
+    }
+  }

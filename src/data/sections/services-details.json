@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "smalltitle": "Demo",
+      "title": "If you need to redesign your new project, new visual strategy, ux structure or you do have some cool ideas for collaboration.",
+      "introduction": "/img/slid/bg1.jpg"
+    },
+    {
+      "id": 2,
+      "title": {
+        "first": "Digital",
+        "second": "Design Awards"
+      },
+      "content": "If you need to redesign your new project, new visual strategy, ux structure or you do have some cool ideas for collaboration.",
+      "image": "/img/slid/bg2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Original Solutions",
+      "content": "If you need to redesign your new project, new visual strategy, ux structure or you do have some cool ideas for collaboration.",
+      "image": "/img/slid/bg3.jpg"
+    }
+  ]
+  

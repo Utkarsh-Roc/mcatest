@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "lightImage": "/img/Clients/brands/philips.png",
+    "darkImage": "/img/Clients/brands/philips.png",
+    "url": "http://www.philips.co.in"
+  },
+  {
+    "id": 2,
+    "lightImage": "/img/Clients/brands/burgerking.jpeg",
+    "darkImage": "/img/Clients/brands/burgerking.jpeg",
+    "url": "http://www.burgerking.in"
+  },
+  {
+    "id": 3,
+    "lightImage": "/img/Clients/brands/cocacola.jpeg",
+    "darkImage": "/img/Clients/brands/cocacola.jpeg",
+    "url": "http://www.coca-colacompany.com"
+  },
+  {
+    "id": 4,
+    "lightImage": "/img/Clients/brands/faso.jpg",
+    "darkImage": "/img/Clients/brands/faso.jpg",
+    "url": "http://www.faso.in"
+  },
+  {
+    "id": 5,
+    "lightImage": "/img/Clients/brands/loreal.jpeg",
+    "darkImage": "/img/Clients/brands/loreal.jpeg",
+    "url": "http://www.loreal.com"
+  },
+  {
+    "id": 6,
+    "lightImage": "/img/Clients/brands/nestle.jpeg",
+    "darkImage": "/img/Clients/brands/nestle.jpeg",
+    "url": "http://www.nestle.in"
+  },
+  {
+    "id": 7,
+    "lightImage": "/img/Clients/brands/tatapravesh.jpeg",
+    "darkImage": "/img/Clients/brands/tatapravesh.jpeg",
+    "url": "http://www.tatapravesh.com"
+  },
+  {
+    "id": 8,
+    "lightImage": "/img/Clients/brands/yesbank.jpeg",
+    "darkImage": "/img/Clients/brands/yesbank.jpeg",
+    "url": "http://www.yesbank.in"
+  },
+  {
+    "id": 9,
+    "lightImage": "/img/Clients/brands/pizza-hut.png",
+    "darkImage": "/img/Clients/brands/pizza-hut.png",
+    "url": "https://www.pizzahut.co.in"
+  },
+  {
+    "id": 10,
+    "lightImage": "/img/Clients/brands/lotuslogo.png",
+    "darkImage": "/img/Clients/brands/lotuslogo.png",
+    "url": "https://www.lotuschocolate.com"
+  }
+]

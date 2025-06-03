@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "eventName": "CSMP ART FESTIVAL",
+        "date": "9 January 2024",
+        "location": "dadar",
+        "backgroundImage": "dadarCSMParkFestival.jpg",
+        "description": "CHHATRAPATI SHIVAJI MAHARAJ PARK ART FESTIVAL 2024 PROMISES FOUR DAYS OF ART AND ENTERTAINMENT",
+        "link": [
+            "https://mumbaitimes.online/chhatrapati-shivaji-maharaj-park-art-festival-2024-promises-four-days-of-art-and-entertainment-pnn-digital/",
+            "https://news9network.com/cultural-delight-chhatrapati-shivaji-maharaj-park-art-festival-2024-promises-four-days-of-art-and-entertainment/"
+        ]
+    },
+    {
+        "id": 2,
+        "eventName": "CMPL Expo",
+        "date": "29 November 2023",
+        "location": "New Delhi",
+        "backgroundImage": "CMPLExpo.jpg",
+        "description": "Sunil Arora, Former Chief Election Commissioner of India to inaugurate CMPL Expo in New Delhi",
+        "link": [
+            "https://www.republicworld.com/initiatives/sunil-arora-former-chief-election-commissioner-of-india-to-inaugurate-cmpl-expo-in-new-delhi/",
+            "https://www.lokmattimes.com/business/sunil-arora-the-former-chief-election-commissioner-of-india-to-inaugurate-cmpl-expo-in-new-delhi/"
+        ]
+    },
+    {
+        "id": 3,
+        "eventName": "Darshan Raval’s Concert",
+        "date": "16 January 2024",
+        "location": "Pune",
+        "backgroundImage": "DarshanRavalPune.jpg",
+        "description": "Darshan Raval’s Unforgettable Show on January 16th, Garnering Praise from 5000+ Enthusiastic Fans",
+        "link": [
+            "https://deccanexpress.co.in/index.php/2024/01/16/darshan-ravals-unforgettable-show-on-january-14th-garnering-praise-from-5000-enthusiastic-fans-credits-american-pride-soda-as-powered-by-partner/",
+            "https://thenationtimes.co.in/index.php/2024/01/16/darshan-ravals-unforgettable-show-on-january-14th-garnering-praise-from-5000-enthusiastic-fans-credits-american-pride-soda-as-powered-by-partner/"
+        ]
+    },
+    {
+        "id": 4,
+        "eventName": "Modak art display",
+        "date": "6 September 2022",
+        "location": "Hyderabad",
+        "backgroundImage": "heritageModak.png",
+        "description": "Heritage turns vanilla milkshake tetra packs into 6 feet-tall modak in Hyderabad",
+        "link": [
+            "https://www.freepressjournal.in/viral/ganeshotsav-2022-heritage-turns-vanilla-milkshake-tetra-packs-into-6-feet-tall-modak",
+            "https://www.blogarama.com/business-blogs/1396977-business-news-blog/45516131-ganeshotsav-2022-heritage-turns-vanilla-milkshake-tetra-packs-into-feet-tall-modak-hyderabad"
+        ]
+    },
+    {
+        "id": 5,
+        "eventName": "In Conversation with Rohit Jaiswal",
+        "date": "16 January 2024",
+        "location": "Mumbai",
+        "backgroundImage": "CEOInterview.jpg",
+        "description": "In Exclusive Conversation with Rohit Jaiswal, Founder of an activation agency MCA Worldwide",
+        "link": [
+            "https://www.mid-day.com/brand-media/article/in-exclusive-conversation-with-rohit-jaiswal-founder-of-an-activation-agency--23330242",
+            "https://www.inquilab.com/brand-media/articles/in-exclusive-conversation-with-rohit-jaiswal-founder-of-an-activation-agency--23330242"
+        ]
+    },
+    {
+        "id": 6,
+        "eventName": "MILKMAID and Chef Ranveer Brar",
+        "date": "22 September 2023",
+        "location": "Mumbai",
+        "backgroundImage": "milkmaid.jpg",
+        "description": "MILKMAID and Chef Ranveer Brar bring new modak recipes for Bappa’s prasad!",
+        "link": [
+            "https://www.lokmattimes.com/business/milkmaid-and-chef-ranveer-brar-bring-new-modak-recipes-for-bappas-prasad/",
+            "https://m.dailyhunt.in/news/india/english/loktej+english-epaper-loktejen/milkmaid+and+chef+ranveer+brar+bring+new+modak+recipes+for+bappas+prasad-newsid-n540224636?sm=Y"
+        ]
+    },
+    {
+        "id": 7,
+        "eventName": "Modaks at Lalbaughcha Raja",
+        "date": "27 September 2023",
+        "location": "Mumbai",
+        "backgroundImage": "milkmaid2.jpg",
+        "description": "Experience Nestlé MILKMAID modaks at Lalbaughcha Raja modak recipes for Bappa’s prasad!",
+        "link": [
+            "https://www.lokmattimes.com/business/experience-nestle-milkmaid-modaks-at-lalbaughcha-raja/",
+            "https://www.sangritoday.com/spotlight/experience-nestle-milkmaid-modaks-at-lalbaughcha-raja"
+        ]
+    },
+    {
+        "id": 8,
+        "eventName": "Budweiser Lights Up Kolkata with Divine",
+        "date": "8 July 2024",
+        "location": "Kolkata",
+        "backgroundImage": "Budweiser-Lights-Up-Kolkata-with-Divine-PNN-Digital.webp",
+        "description": "Budweiser recently electrified Kolkata with a concert featuring the renowned rapper, Divine.",
+        "link": [
+            "https://www.sangritoday.com/spotlight/budweiser-lights-up-kolkata-withdivine",
+            "https://up18news.com/budweiser-lights-up-kolkata-with-divine/"
+        ]
+    },
+    {
+        "id": 9,
+        "eventName": "Jim Beam Amplifies Kolkata's Night with Divine",
+        "date": "8 July 2024",
+        "location": "Kolkata",
+        "backgroundImage": "Jim-Beam-Amplifies-Kolkatas-Night-with-Divine-PNN-Digital.jpg",
+        "description": "Jim Beam recently set Kolkata ablaze with an extraordinary concert featuring the celebrated rapper, Divine.",
+        "link": [
+            "https://news9network.com/jim-beam-amplifies-kolkatas-night-with-divine/",
+            "https://up18news.com/jim-beam-amplifies-kolkatas-night-with-divine"
+        ]
+    }
+]

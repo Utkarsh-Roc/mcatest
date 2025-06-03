@@ -1,0 +1,52 @@
+[
+    {
+        "id": "live-concerts",
+        "serviceBg": "/img/slid/service1.jpg",
+        "serviceTitle": "Live Concerts",
+        "serviceLink": "Live-Concerts",
+        "serviceStrokeText": "Live",
+        "serviceText": "Concerts",
+        "serviceDetails": "MCA Live Concerts & Entertainment Success is an accepted leader in the listicle of PR & Marketing Companies in India. we cover all possible aspects of Planning, Management, Coordination, and Execution We ensure cost-effective service, accountability, and flexibility in all your requirements. Whatever your budget may be, we have solutions you will not find elsewhere.",
+        "services": [
+            {
+                "id": "1",
+                "image": "/img/services/liveconcerts/1.jpeg"
+            },
+            {
+                "id": "2",
+                "image": "/img/services/liveconcerts/2.jpeg"
+            },
+            {
+                "id": "3",
+                "image": "/img/services/liveconcerts/3.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "motor-sports-events",
+        "serviceBg": "/img/slid/service4.jpg",
+        "serviceTitle": "Motorsports Events (FMSCI Events)",
+        "serviceLink": "Motorsports Events (FMSCI Events)",
+        "serviceStrokeText": "Motorsports Events",
+        "serviceText": "(FMSCI Events)",
+        "serviceDetails": "Motorsports Events (FMSCI Events). Concerts, Corporate Events, and Design Concepts are managed and taken care of by Team MCA,  We cover all possible aspects of Planning, Management, Coordination, and Execution We ensure cost-effective service, accountability, and flexibility in all your requirements.",
+        "services": [
+            {
+                "id": "1",
+                "image": "/img/services/motorsports/1.jpeg"
+            },
+            {
+                "id": "2",
+                "image": "/img/services/motorsports/2.jpeg"
+            },
+            {
+                "id": "3",
+                "image": "/img/services/motorsports/3.jpeg"
+            },
+            {
+                "id": "4",
+                "image": "/img/services/motorsports/4.jpeg"
+            }
+        ]
+    }
+]
