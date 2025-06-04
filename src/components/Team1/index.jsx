@@ -4,6 +4,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import team1Data from "../../data/sections/team1.json";
+import Link from 'next/link';
 
 class Team1 extends React.Component {
   constructor(props) {
@@ -46,18 +47,19 @@ class Team1 extends React.Component {
 
                 {/* Read More link below arrows */}
                 <div style={{ marginTop: "10px" }}>
-                  <a
-                    href="/artistdetails"
-                    style={{
-                      fontWeight: "bold",
-                      color: "#007bff",
-                      textDecoration: "underline",
-                      display: "inline-block",
-                      cursor: "pointer",
-                    }}
-                  >
-                    Read More...
-                  </a>
+                  <Link href="/artistdetails">
+                    <span
+                      style={{
+                        fontWeight: "bold",
+                        color: "#007bff",
+                        textDecoration: "underline",
+                        display: "inline-block",
+                        cursor: "pointer",
+                      }}
+                    >
+                      Read More...
+                    </span>
+                  </Link>
                 </div>
               </div>
             </div>
