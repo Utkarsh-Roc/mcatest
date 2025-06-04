@@ -18,11 +18,13 @@
     "react-circular-progressbar": "^2.0.4",
     "react-countup": "^6.1.0",
     "react-dom": "17.0.2",
+    "react-icons": "^5.5.0",
     "react-modal-video": "^1.2.8",
     "react-router-dom": "^6.8.1",
     "react-slick": "^0.28.1",
     "react-visibility-sensor": "^5.1.1",
     "slick-carousel": "^1.8.1",
+    "styled-jsx": "^5.1.7",
     "swiper": "^7.4.1"
   },
   "devDependencies": {

@@ -13,4 +13,12 @@ module.exports = {
   eslint: {
     ignoreDuringBuilds: false,
   },
+  output: 'export',
+  compiler: {
+    styledComponents: true,
+  },
+  // Add this to enable styled-jsx
+  experimental: {
+    forceSwcTransforms: true,
+  }
 };

@@ -3,36 +3,55 @@
     "id": 1,
     "image": "/img/team/01.jpg",
     "name": "Hasib sharif",
-    "title": "General Manager"
+    "title": "General Manager",
+    "desc" : "Hasib is a visionary with 10+ years of experience in talent management.",
+    "youtube": "https://www.youtube.com/watch?v=sample1",
+    "instagram": "https://www.instagram.com/hasibsharif"
   },
   {
     "id": 2,
     "image": "/img/team/02.jpg",
     "name": "Jonson Leo",
-    "title": "Founder"
+    "title": "Founder",
+    "desc": "Jonson built MCA Worldwide from the ground up with passion for the arts.",
+    "youtube": "https://www.youtube.com/watch?v=sample2",
+    "instagram": "https://www.instagram.com/jonsonleo"
   },
   {
     "id": 3,
     "image": "/img/team/03.jpg",
     "name": "Leio Man",
-    "title": "Founder"
+    "title": "Founder",
+    "desc": "Jonson built MCA Worldwide from the ground up with passion for the arts.",
+    "youtube": "https://www.youtube.com/watch?v=sample2",
+    "instagram": "https://www.instagram.com/jonsonleo"
+
   },
   {
     "id": 4,
     "image": "/img/team/4.jpg",
     "name": "Robert Front",
-    "title": "CEO Founder"
+    "title": "CEO Founder",
+    "desc": "Jonson built MCA Worldwide from the ground up with passion for the arts.",
+    "youtube": "https://www.youtube.com/watch?v=sample2",
+    "instagram": "https://www.instagram.com/jonsonleo"
   },
   {
     "id": 5,
     "image": "/img/team/5.jpg",
     "name": "Legender Mao",
-    "title": "3D Visualization"
+    "title": "3D Visualization",
+    "desc": "Jonson built MCA Worldwide from the ground up with passion for the arts.",
+    "youtube": "https://www.youtube.com/watch?v=sample2",
+    "instagram": "https://www.instagram.com/jonsonleo"
   },
   {
     "id": 6,
     "image": "/img/team/6.jpg",
     "name": "Matt Huk",
-    "title": "3D Visualization"
+    "title": "3D Visualization",
+    "desc": "Jonson built MCA Worldwide from the ground up with passion for the arts.",
+    "youtube": "https://www.youtube.com/watch?v=sample2",
+    "instagram": "https://www.instagram.com/jonsonleo"
   }
 ]

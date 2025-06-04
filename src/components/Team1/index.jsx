@@ -9,6 +9,7 @@ class Team1 extends React.Component {
   constructor(props) {
     super(props);
   }
+
   renderArrows = () => {
     return (
       <div className="navs mt-30 wow fadeInUp" data-wow-delay=".3s">
@@ -27,7 +28,10 @@ class Team1 extends React.Component {
       </div>
     );
   };
+
   render() {
+    const { onMemberClick } = this.props; // Accept onMemberClick prop
+
     return (
       <section className="team section-padding">
         <div className="container">
@@ -79,13 +83,16 @@ class Team1 extends React.Component {
                     className="item wow fadeInUp"
                     data-wow-delay=".3s"
                     key={item.id}
+                    style={{ cursor: "pointer" }}
+                    onClick={() => onMemberClick && onMemberClick(item.id)} // click handler
                   >
                     <div className="img wow imago">
-                      <img src={item.image} alt="" />
+                      <img src={item.image} alt={item.name} />
                     </div>
                     <div className="info">
                       <h5>{item.name}</h5>
                       <span>{item.title}</span>
+                      <span>{item.desc}</span>
                       <div className="social">
                         <a href="#0">
                           <i className="fab fa-facebook-f"></i>
