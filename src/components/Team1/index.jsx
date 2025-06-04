@@ -52,7 +52,7 @@ class Team1 extends React.Component {
                       style={{
                         fontWeight: "bold",
                         color: "#007bff",
-                        textDecoration: "underline",
+                        textDecoration: "none",
                         display: "inline-block",
                         cursor: "pointer",
                       }}
