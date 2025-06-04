@@ -52,7 +52,7 @@ class Team1 extends React.Component {
                       style={{
                         fontWeight: "bold",
                         color: "#007bff",
-                        textDecoration: "underline",
+                        textDecoration: "none",
                         display: "inline-block",
                         cursor: "pointer",
                       }}
@@ -102,7 +102,9 @@ class Team1 extends React.Component {
                     data-wow-delay=".3s"
                     key={item.id}
                     style={{ cursor: "pointer" }}
-                    onClick={() => onMemberClick && onMemberClick(item.id)} // click handler
+                    onClick={() => {
+                      window.location.href = "/artistdetails";
+                    }}
                   >
                     <div className="img wow imago">
                       <img src={item.image} alt={item.name} />
@@ -110,21 +112,20 @@ class Team1 extends React.Component {
                     <div className="info">
                       <h5>{item.name}</h5>
                       <span>{item.title}</span>
-                      <span>{item.desc}</span>
+                      {/* <span>{item.desc}</span> */}
                       <div className="social">
-                        <a href="#0">
-                          <i className="fab fa-facebook-f"></i>
-                        </a>
-                        <a href="#0">
-                          <i className="fab fa-twitter"></i>
-                        </a>
-                        <a href="#0">
-                          <i className="fab fa-behance"></i>
-                        </a>
-                        <a href="#0">
-                          <i className="fab fa-linkedin-in"></i>
-                        </a>
+                        {item.instagram && (
+                          <a
+                            href={item.instagram}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            style={{ color: "#C13584" }}
+                          >
+                            <i className="fab fa-instagram " style={{ fontSize: "28px" }}></i>
+                          </a>
+                        )}
                       </div>
+
                     </div>
                   </div>
                 ))}

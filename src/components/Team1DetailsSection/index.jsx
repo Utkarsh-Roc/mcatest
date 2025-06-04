@@ -19,19 +19,27 @@ const Team1DetailsSection = () => {
                     src={member.image}
                     alt={member.name}
                     className="rounded-circle mb-3"
-                    style={{ width: "120px", height: "120px", objectFit: "cover" }}
+                    style={{ width: "160px", height: "160px", objectFit: "cover" }}
                   />
-                  <div>
-                    <h6 className="mb-0">{member.name}</h6>
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "center",
+                      alignItems: "center",
+                      gap: "8px",
+                    }}
+                  >
+                    <h6 className="mb-0" style={{ margin: 0 }}>
+                      {member.name}
+                    </h6>
                     {member.instagram && (
                       <a
                         href={member.instagram}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="ml-2"
                         style={{ color: "#C13584" }}
                       >
-                        <i className="fab fa-instagram"></i>
+                        <i className="fab fa-instagram" style={{ fontSize: "34px" }}></i>
                       </a>
                     )}
                   </div>
@@ -45,10 +53,23 @@ const Team1DetailsSection = () => {
                       href={member.youtube}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="btn btn-sm btn-primary mt-2"
+                      style={{
+                        backgroundColor: "#FF0000",
+                        color: "#fff",
+                        padding: "12px 20px",
+                        fontSize: "16px",
+                        fontWeight: "600",
+                        borderRadius: "6px",
+                        display: "inline-flex",
+                        alignItems: "center",
+                        gap: "8px",
+                        textDecoration: "none"
+                      }}
                     >
+                      <i className="fab fa-youtube" style={{ fontSize: "20px" }}></i>
                       Watch Performance
                     </a>
+
                   )}
                 </div>
               </div>
