@@ -39,10 +39,26 @@ class Team1 extends React.Component {
             <div className="col-lg-4 valign">
               <div className="full-width">
                 <div className="sec-head custom-font mb-0">
-                  <h6>Employees</h6>
-                  <h3>Our Team.</h3>
+                  <h6>Artists</h6>
+                  <h3>Our Artists.</h3>
                 </div>
                 {this.renderArrows()}
+
+                {/* Read More link below arrows */}
+                <div style={{ marginTop: "10px" }}>
+                  <a
+                    href="/artistdetails"
+                    style={{
+                      fontWeight: "bold",
+                      color: "#007bff",
+                      textDecoration: "underline",
+                      display: "inline-block",
+                      cursor: "pointer",
+                    }}
+                  >
+                    Read More...
+                  </a>
+                </div>
               </div>
             </div>
             <div className="col-lg-8">

@@ -6,7 +6,6 @@ import Navbar from '../../components/Navbar';
 import ServiceSectionHeader from '../../components/Service-section-header';
 import ServiceSectionIntro from '../../components/Service-section-intro';
 import Team1 from "../../components/Team1";
-import Team1DetailsSection from "../../components/Team1DetailsSection";
 import ServiceSectionShowcases from '../../components/Service-section-showcases';
 import LightTheme from '../../layouts/Light';
 import appData from "../../data/app.json";
@@ -95,12 +94,13 @@ const Services = () => {
         <Navbar nr={navbarRef} lr={logoRef} />
         {serviceData ? (
           <>
-            <ServiceSectionHeader data={serviceData} />
+            <div style={{ marginBottom: "60px" }}>
+                <ServiceSectionHeader data={serviceData} />
+            </div>
+            <ServiceSectionIntro data={serviceData} />
             <div style={{ marginBottom: "60px" }}>
               <Team1 onMemberClick={scrollToDetail} />
             </div>
-            <ServiceSectionIntro data={serviceData} />
-            <Team1DetailsSection />
             <ServiceSectionShowcases data={serviceData} />
           </>
         ) : (

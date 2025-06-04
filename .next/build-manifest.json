@@ -29,6 +29,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/artist-managed.js"
+    ],
+    "/artistdetails": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/artistdetails.js"
     ]
   },
   "ampFirstPages": []
