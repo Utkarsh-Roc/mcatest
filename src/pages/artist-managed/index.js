@@ -101,7 +101,7 @@ const Services = () => {
             <div style={{ marginBottom: "60px" }}>
               <Team1 onMemberClick={scrollToDetail} />
             </div>
-            <ServiceSectionShowcases data={serviceData} />
+            
           </>
         ) : (
           <p>Loading</p>

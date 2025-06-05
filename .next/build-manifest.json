@@ -30,10 +30,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/artist-managed.js"
     ],
-    "/artistdetails": [
+    "/contact": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/artistdetails.js"
+      "static/chunks/pages/contact.js"
+    ],
+    "/influencer-marketing": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/influencer-marketing.js"
     ]
   },
   "ampFirstPages": []

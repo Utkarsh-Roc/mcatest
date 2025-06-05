@@ -78,7 +78,10 @@ const Navbar = ({ lr, nr, theme }) => {
                 <Link href="/artist-managed">
                 <a className="dropdown-item">Artist Managed</a>
                 </Link>
-              </div>
+                <Link href="/influencer-marketing">
+                <a className="dropdown-item">Influencer Marketing</a>
+                </Link>
+                </div>
             </li>
 
             <li className="nav-item">

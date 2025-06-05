@@ -161,3 +161,122 @@ section.team.section-padding {
   box-sizing: border-box;
   padding-top: 5px;
 }
+.brands-section {
+  padding: 40px 0;
+  background-color: transparent; /* optional bg */
+  overflow: hidden;
+}
+
+.marquee {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.track {
+  display: flex;
+  width: calc(250px * 26); /* adjust based on logo count and width */
+  animation: marquee 30s linear infinite;
+}
+
+/* Single, combined .text style for the logo containers */
+.text {
+  flex: 0 0 180px;           /* width of each logo container */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;             /* padding inside each logo box */
+  margin: 0 8px;             /* spacing between boxes */
+  border: 1px solid #ddd;    /* light gray border */
+  border-radius: 6px;        /* rounded corners */
+  background-color: #fff;    /* white background */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* subtle shadow */
+  transition: box-shadow 0.3s ease;
+  box-sizing: border-box;    /* include padding/border in size */
+}
+
+.text:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* stronger shadow on hover */
+}
+
+.brands__logo-img {
+  max-height: 80px;
+  object-fit: contain;
+  filter: none;
+  transition: none;
+}
+
+.brands__logo-img:hover {
+  filter: none;
+}
+
+/* Keyframes for marquee animation - scroll left continuously */
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .text {
+    flex: 0 0 130px;
+    padding: 8px;
+    margin: 0 6px;
+  }
+
+  .track {
+    width: calc(150px * 26);
+  }
+
+  .brands__logo-img {
+    max-height: 50px;
+  }
+}
+.numbers__list--box {
+  padding: 40px 20px;
+  background-color: transparent ;
+  text-align: center;
+}
+
+.numbers__list--unit {
+  margin-bottom: 30px;
+}
+
+.numbers__list--unit .icon {
+  display: block;
+  font-size: 48px;
+  margin-bottom: 15px;
+  /* Add your icon styles or replace with images/SVGs */
+}
+
+.numbers__list--unit h3 {
+  font-size: 2.5rem;
+  margin: 0;
+  font-weight: 700;
+  color: #222;
+}
+
+.numbers__list--unit h4 {
+  font-size: 1.1rem;
+  margin-top: 8px;
+  color: #666;
+}
+
+.bar {
+  /* example special styling */
+}
+
+.barone {
+  /* example special styling */
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .numbers__list--unit h3 {
+    font-size: 2rem;
+  }
+}

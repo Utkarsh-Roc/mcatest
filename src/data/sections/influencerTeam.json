@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "title": "Lifestyle Influencer",
+    "image": "/img/influencers/priya.jpg",
+    "instagram": "https://instagram.com/priyainfluencer"
+  },
+  {
+    "id": 2,
+    "name": "Rohit Malhotra",
+    "title": "Tech Creator",
+    "image": "/img/influencers/rohit.jpg",
+    "instagram": "https://instagram.com/rohit.tech"
+  },
+  {
+    "id": 3,
+    "name": "Ayesha Khan",
+    "title": "Fashion Blogger",
+    "image": "/img/influencers/ayesha.jpg",
+    "instagram": "https://instagram.com/ayeshastyle"
+  },
+   {
+    "id": 4,
+    "name": "Ayesha Khan",
+    "title": "Fashion Blogger",
+    "image": "/img/influencers/ayesha.jpg",
+    "instagram": "https://instagram.com/ayeshastyle"
+  },
+   {
+    "id": 5,
+    "name": "Ayesha Khan",
+    "title": "Fashion Blogger",
+    "image": "/img/influencers/ayesha.jpg",
+    "instagram": "https://instagram.com/ayeshastyle"
+  },
+   {
+    "id": 6,
+    "name": "Ayesha Khan",
+    "title": "Fashion Blogger",
+    "image": "/img/influencers/ayesha.jpg",
+    "instagram": "https://instagram.com/ayeshastyle"
+  }
+]
