@@ -1,13 +1,13 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
-import team1Data from "../../data/sections/team1.json";
+// import team1Data from "../../data/sections/team1.json";
 
-const Team1DetailsSection = () => {
+const Team1DetailsSection = ({data}) => {
   return (
     <section className="team-details section-padding">
       <div className="container">
         <div className="row">
-          {team1Data.map((member, index) => (
+          {data.map((member, index) => (
             <div
               className="col-lg-12 mb-60"
               key={index}

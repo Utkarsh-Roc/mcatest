@@ -7,6 +7,8 @@
         import Team1DetailsSection from "../../components/Team1DetailsSection";
         import appData from "../../data/app.json";
         import Head from "next/head";
+        import team1Data from "../../data/sections/team1.json";
+
 
         const ArtistDetails = () => {
         const navbarRef = React.useRef(null);
@@ -33,6 +35,9 @@
             });
         }, []);
 
+        const filteredIds = [1, 3, 7];  // <-- IDs you want to display here
+        const filteredTeam = team1Data.filter(member => filteredIds.includes(member.id));  // Filter data
+
         return (
             <>
             <Head>
@@ -56,7 +61,7 @@
                     </div>
                 </div>
                 </section>
-                <Team1DetailsSection />
+                <Team1DetailsSection data={filteredTeam} />
                 <CallToAction theme="light" />
                 <Footer />
             </LightTheme>

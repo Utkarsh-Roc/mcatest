@@ -72,6 +72,8 @@ class Team1 extends React.Component {
                   infinite: true,
                   arrows: true,
                   autoplay: true,
+                  speed: 300,
+                  autoplaySpeed: 1200,
                   slidesToScroll: 1,
                   slidesToShow: 4,
                   responsive: [
@@ -119,6 +121,7 @@ class Team1 extends React.Component {
                             href={item.instagram}
                             target="_blank"
                             rel="noopener noreferrer"
+                            onClick={(e) => e.stopPropagation()}
                             style={{ color: "#C13584" }}
                           >
                             <i className="fab fa-instagram " style={{ fontSize: "28px" }}></i>
