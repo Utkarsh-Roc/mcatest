@@ -8,6 +8,9 @@ import ServiceSectionIntro from '../../components/Service-section-intro';
 import InfluencerTeam from "../../components/InfluencerTeam";
 import BrandsMarquee from "../../components/BrandsMarquee";
 import NumbersListBox from "../../components/NumbersListBox";
+import InfluencerCallToAction from "../../components/InfluencerCall-to-Action";
+import BrandForm from "../../components/BrandForm";
+import InfluencerForm from "../../components/InfluencerForm";
 import ServiceSectionShowcases from '../../components/Service-section-showcases';
 import LightTheme from '../../layouts/Light';
 import appData from "../../data/app.json";
@@ -92,10 +95,61 @@ const InfluencerMarketing = () => {
               <InfluencerTeam onMemberClick={scrollToDetail} />
             </div>
             <div style={{ marginBottom: "60px" }}>
-            <BrandsMarquee/>
+              <BrandsMarquee />
             </div>
             <div>
-            <NumbersListBox/>
+              <NumbersListBox />
+            </div>
+            <div style={{ marginBottom: "60px" }}>
+              <InfluencerCallToAction />
+            </div>
+            {/*Modals are defined here, separately */}
+            <div
+              className="modal fade"
+              id="modalBrand"
+              tabIndex="-1"
+              aria-hidden="true"
+            >
+              <div className="modal-dialog modal-dialog-centered">
+                <div className="modal-content p-4">
+                  <div className="modal-header">
+                    <h5 className="modal-title">Brand Registration</h5>
+                    <button
+                      type="button"
+                      className="btn-close"
+                      data-bs-dismiss="modal"
+                      aria-label="Close"
+                    ></button>
+                  </div>
+                  <div className="modal-body">
+                    <BrandForm />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              className="modal fade"
+              id="modalInfluencer"
+              tabIndex="-1"
+              aria-hidden="true"
+            >
+              <div className="modal-dialog modal-dialog-centered">
+                <div className="modal-content p-4">
+                  <div className="modal-header">
+                    <h5 className="modal-title">Influencer Registration</h5>
+                    <button
+                      type="button"
+                      className="btn-close"
+                      data-bs-dismiss="modal"
+                      aria-label="Close"
+                    ></button>
+                  </div>
+                  <div className="modal-body">
+                    <InfluencerForm />
+                  </div>
+                </div>
+              </div>
             </div>
           </>
         ) : (

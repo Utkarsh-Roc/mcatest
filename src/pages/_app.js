@@ -1,13 +1,18 @@
-import React from "react";
+import React, {useEffect} from "react";
 import Head from "next/head";
 import Script from "next/script";
 import Cursor from "../components/Cursor";
 import ScrollToTop from "../components/Scroll-to-top";
 import LoadingScreen from "../components/Loading-Screen";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "../styles/globals.css";
 // import '../styles/styles.css'
 
 function MyApp({ Component, pageProps }) {
+
+  useEffect(() => {
+    import("bootstrap/dist/js/bootstrap.bundle.min.js");
+  }, []);
   return (
     <>
       <Head>
