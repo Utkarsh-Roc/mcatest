@@ -176,7 +176,7 @@ section.team.section-padding {
 .track {
   display: flex;
   width: calc(250px * 26); /* adjust based on logo count and width */
-  animation: marquee 30s linear infinite;
+  animation: marquee 50s linear infinite;
 }
 
 /* Single, combined .text style for the logo containers */

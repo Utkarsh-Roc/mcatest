@@ -177,7 +177,7 @@ const InfluencerForm = () => {
               value={typeof window !== 'undefined' ? window.location.href : ''}
             />
             {/* Submit Button */}
-            <button type="submit" disabled={isSubmitting} className="btn btn-danger">
+            <button type="submit" disabled={isSubmitting} className="btn btn-dark">
               Submit
             </button>
           </div>

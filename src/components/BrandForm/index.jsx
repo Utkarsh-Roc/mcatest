@@ -152,7 +152,7 @@ const BrandForm = () => {
           <button
             type="submit"
             disabled={isSubmitting}
-            className="btn btn-danger"
+            className="btn btn-dark"
           >
             Submit
           </button>
