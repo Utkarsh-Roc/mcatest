@@ -342,8 +342,13 @@ section.team.section-padding {
 .btn-arrow:hover .btn-arrow-icon {
   transform: translateX(5px);
 }
-.btn-width {
+.btn-width1 {
   width: 150px; /* Adjust as needed */
 }
+.btn-width2 {
+  width: 180px; /* Adjust as needed */
+}
+
+
 
 

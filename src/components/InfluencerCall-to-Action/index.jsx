@@ -9,18 +9,18 @@ const InfluencerCallToAction = () => {
 
                         <div className="mt-4">
                             <button
-                                className="btn btn-danger btn-arrow btn-rounded mr-3 btn-width"
+                                className="btn btn-danger btn-arrow btn-rounded mr-3 btn-width1"
                                 data-bs-toggle="modal"
                                 data-bs-target="#modalBrand"
                             >
                                 I am a Brand <span className="btn-arrow-icon">→</span>
                             </button>
                             <button
-                                className="btn btn-outline-danger btn-arrow btn-rounded btn-width"
+                                className="btn btn-outline-danger btn-arrow btn-rounded mr-3 btn-width2"
                                 data-bs-toggle="modal"
                                 data-bs-target="#modalInfluencer"
                             >
-                                I am an Influencer
+                                I am an Influencer <span className="btn-arrow-icon">→</span>
                             </button>
                         </div>
                     </div>
