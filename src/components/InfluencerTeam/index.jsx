@@ -34,7 +34,7 @@ class InfluencerTeam extends React.Component {
     const { onMemberClick } = this.props; // Accept onMemberClick prop
 
     return (
-      <section className="team section-padding pt-0">
+      <section className="team section-padding pt">
         <div className="container">
           <div className="row">
             {/* Left column: Title, arrows, Read More */}
