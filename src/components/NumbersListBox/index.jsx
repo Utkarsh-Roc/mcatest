@@ -1,9 +1,11 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 
-const CountUp = ({ end, duration = 2000 }) => {
+const CountUp = ({ end, duration = 2000, start }) => {
   const [count, setCount] = useState(0);
 
   useEffect(() => {
+    if (!start) return; // Don't start if 'start' is false
+
     let startTime = null;
 
     const step = (timestamp) => {
@@ -20,24 +22,51 @@ const CountUp = ({ end, duration = 2000 }) => {
     };
 
     requestAnimationFrame(step);
-  }, [end, duration]);
+  }, [end, duration, start]);
 
   return <span>{count.toLocaleString()}</span>;
 };
 
 const NumbersListBox = () => {
-  // Helper to decide if animate or show suffix directly
+  const [inView, setInView] = useState(false);
+  const containerRef = useRef(null);
+
+  // Intersection Observer setup
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setInView(true);
+          observer.disconnect(); // Stop observing after visible once
+        }
+      },
+      {
+        threshold: 0.3, // 30% visible triggers
+      }
+    );
+
+    if (containerRef.current) {
+      observer.observe(containerRef.current);
+    }
+
+    return () => {
+      observer.disconnect();
+    };
+  }, []);
+
   const renderNumber = (num, suffix) => {
     if (num >= 100000) {
-      // For 1 lac or more, show suffix text directly
       return <>{suffix}</>;
     }
-    // Else animate counting
-    return <CountUp end={num} />;
+    return <CountUp end={num} start={inView} />;
   };
 
   return (
-    <div className="numbers__list--box">
+    <div
+      ref={containerRef}
+      className="numbers__list--box wow fadeInUp"
+      data-wow-delay="0.5s"
+    >
       <div className="row row-cols-lg-4 row-cols-sm-2 row-cols-2">
         <div className="col numbers__list--unit">
           <span className="icon icon-years"></span>

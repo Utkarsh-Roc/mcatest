@@ -1,22 +1,25 @@
 const InfluencerCallToAction = () => {
     return (
-        <section className="lets-talk section-padding bg-gray">
+        <section className="lets-talk section-padding bg-transparent">
             <div className="container">
                 <div className="row">
-                    <div className="col-12 text-center">
+                    <div className="col-12 text-center  wow fadeInUp">
                         <h2>Let’s Work Together</h2>
                         <p>We’re here to help your brand collaborate with top influencers.</p>
 
                         <div className="mt-4">
                             <button
-                                className="btn btn-danger btn-arrow btn-rounded mr-3 btn-width1"
+                                className="btn btn-dark btn-arrow btn-rounded mr-3 btn-width1 
+                                wow fadeInUp"
+                                data-wow-delay="0.5s"
                                 data-bs-toggle="modal"
                                 data-bs-target="#modalBrand"
                             >
                                 I am a Brand <span className="btn-arrow-icon">→</span>
                             </button>
                             <button
-                                className="btn btn-outline-danger btn-arrow btn-rounded mr-3 btn-width2"
+                                className="btn btn-outline-dark btn-arrow btn-rounded mr-3 btn-width2 wow fadeInUp"
+                                data-wow-delay="0.5s"
                                 data-bs-toggle="modal"
                                 data-bs-target="#modalInfluencer"
                             >

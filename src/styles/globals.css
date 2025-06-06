@@ -343,11 +343,38 @@ section.team.section-padding {
   transform: translateX(5px);
 }
 .btn-width1 {
-  width: 150px; /* Adjust as needed */
+  width: 140px; /* Adjust as needed */
 }
 .btn-width2 {
   width: 180px; /* Adjust as needed */
 }
+/* Wrapper for custom dropdown arrow */
+.custom-select-container {
+  position: relative;
+}
+
+.custom-select-container::after {
+  content: "▼";
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  transform: translateY(-50%);
+  pointer-events: none;
+  color: #666;
+  opacity: 0.4;
+  font-size: 0.8rem;
+  z-index: 5;
+}
+
+.custom-select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding-right: 2.5rem; 
+  background-color: #fff;
+  background-image: none; 
+}
+
 
 
 
