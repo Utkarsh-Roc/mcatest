@@ -100,7 +100,7 @@ const InfluencerMarketing = () => {
             <div>
               <NumbersListBox />
             </div>
-            <div style={{ marginBottom: "10px" }}>
+            <div>
               <InfluencerCallToAction />
             </div>
             {/*Modals are defined here, separately */}
