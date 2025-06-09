@@ -101,7 +101,7 @@ const InfluencerMarketing = () => {
               <NumbersListBox />
             </div>
             <div>
-              <InfluencerCallToAction />
+              <InfluencerCallToAction theme={"light"} />
             </div>
             {/*Modals are defined here, separately */}
             <div

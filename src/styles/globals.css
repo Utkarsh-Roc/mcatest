@@ -321,7 +321,7 @@ section.team.section-padding {
   }
 }
 .btn-rounded {
-  border-radius: 9999px !important;
+  border-radius: 1px !important;
 }
 
 .btn-arrow {

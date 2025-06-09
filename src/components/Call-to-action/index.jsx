@@ -23,8 +23,7 @@ const CallToAction = ({ img, theme, subBG, }) => {
                   about your <b>next project</b>.
                 </h2>
               </Split>
-
-              
+            
             </div>
             
           </div>
