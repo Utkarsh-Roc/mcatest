@@ -1,44 +1,37 @@
 [
   {
     "id": 1,
-    "name": "Priya Sharma",
-    "title": "Lifestyle Influencer",
+    "name": "Ashish Chanchlani",
+    "title": "Followers : 17.2M+",
     "image": "/img/influencers/1.jpg",
-    "instagram": "https://instagram.com/priyainfluencer"
+    "instagram": "https://www.instagram.com/ashishchanchlani/"
   },
   {
     "id": 2,
-    "name": "Rohit Malhotra",
-    "title": "Tech Creator",
+    "name": "Elvish Yadav",
+    "title": "Followers : 27.4M+",
     "image": "/img/influencers/2.jpg",
-    "instagram": "https://instagram.com/rohit.tech"
+    "instagram": "https://www.instagram.com/elvish_yadav/"
   },
   {
     "id": 3,
-    "name": "Ayesha Khan",
-    "title": "Fashion Blogger",
+    "name": "Jannat Zubair",
+    "title": "Followers : 50M+",
     "image": "/img/influencers/3.jpg",
-    "instagram": "https://instagram.com/ayeshastyle"
+    "instagram": "https://www.instagram.com/jannatzubair29/"
   },
    {
     "id": 4,
-    "name": "Ayesha Khan",
-    "title": "Fashion Blogger",
+    "name": "Riyaz Aly",
+    "title": "Followers : 27.4M+",
     "image": "/img/influencers/4.jpg",
-    "instagram": "https://instagram.com/ayeshastyle"
+    "instagram": "https://www.instagram.com/riyaz.14/"
   },
    {
     "id": 5,
-    "name": "Ayesha Khan",
-    "title": "Fashion Blogger",
+    "name": "Dhruv & Shyam",
+    "title": "Followers : 2.7M+",
     "image": "/img/influencers/5.jpg",
-    "instagram": "https://instagram.com/ayeshastyle"
-  },
-   {
-    "id": 6,
-    "name": "Ayesha Khan",
-    "title": "Fashion Blogger",
-    "image": "/img/influencers/6.jpg",
-    "instagram": "https://instagram.com/ayeshastyle"
+    "instagram": "https://www.instagram.com/funcho"
   }
 ]
